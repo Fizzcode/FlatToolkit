@@ -1,0 +1,8 @@
+C:\Users\User\documents\visual studio 2017\Projects\WindowsFormsApp11\WindowsFormsApp11\bin\Release\WindowsFormsApp11.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\WindowsFormsApp11\WindowsFormsApp11\bin\Release\WindowsFormsApp11.exe
+C:\Users\User\documents\visual studio 2017\Projects\WindowsFormsApp11\WindowsFormsApp11\bin\Release\WindowsFormsApp11.pdb
+C:\Users\User\documents\visual studio 2017\Projects\WindowsFormsApp11\WindowsFormsApp11\obj\Release\WindowsFormsApp11.Form1.resources
+C:\Users\User\documents\visual studio 2017\Projects\WindowsFormsApp11\WindowsFormsApp11\obj\Release\WindowsFormsApp11.Properties.Resources.resources
+C:\Users\User\documents\visual studio 2017\Projects\WindowsFormsApp11\WindowsFormsApp11\obj\Release\WindowsFormsApp11.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2017\Projects\WindowsFormsApp11\WindowsFormsApp11\obj\Release\WindowsFormsApp11.exe
+C:\Users\User\documents\visual studio 2017\Projects\WindowsFormsApp11\WindowsFormsApp11\obj\Release\WindowsFormsApp11.pdb
